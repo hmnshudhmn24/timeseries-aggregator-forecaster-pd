@@ -40,7 +40,3 @@ streamlit run app/main.py
 - `app/main.py` – Main Streamlit app
 - `data/data.csv` – Sample time-series data
 - `README.md` – Project documentation
-
----
-
-⏳ Built with Pandas, Prophet, and Streamlit. Forecast your future with confidence! 🔮
